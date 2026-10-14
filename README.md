@@ -12,6 +12,8 @@ La fuente de verdad del producto es [`product_context.md`](product_context.md). 
 
 | Documento | Contenido |
 | --- | --- |
+| [AGENTS.md](AGENTS.md) | Orquestación de coding agents: roles, ciclo de vida de cada PR, puertas humanas, paralelización, skills canónicas y guardrails. |
+| [docs/specs/TEMPLATE.md](docs/specs/TEMPLATE.md) | Plantilla de spec por PR; su front-matter (`status`) es la fuente de verdad del progreso. |
 | [product_context.md](product_context.md) | Visión, alcance funcional, arquitectura conceptual, seguridad, métricas y definición de éxito del MVP. **No se modifica; es el contrato del producto.** |
 | [docs/audit-aprendiz.md](docs/audit-aprendiz.md) | Auditoría del repositorio `frontier-hackathon` (Aprendiz): qué se reutiliza, qué se hizo bien, qué se hizo mal y qué no repetir. |
 | [docs/architecture.md](docs/architecture.md) | Arquitectura objetivo, brechas respecto a la visión, decisiones técnicas pendientes y mapeo de reutilización. |
